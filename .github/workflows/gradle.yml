@@ -9,6 +9,8 @@ on:
   pull_request:
     branches:
       - main
+      - testng
+      - junit4
 
 jobs:
   build:
